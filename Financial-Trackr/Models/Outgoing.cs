@@ -4,14 +4,19 @@ namespace Financial_Trackr
 {
     public class Outgoing
     {
-        public List<double> spending { get; set; } = new();
+        public double spending { get; set; }
+        public List<double> totalSpending { get; set; } = new();
+        public List<int> category { get; set; } = new();
+        public Dictionary<int, string> categoryTypes { get; set; } = new();
 
         public Outgoing()
         {
-            spending.Add(100.00);
-            spending.Add(200.00);
-            spending.Add(890.00);
-            spending.Add(132.90);
+            categoryTypes.Add(1, "Health");
+            categoryTypes.Add(2, "Food");
+            categoryTypes.Add(3, "Education");
+            categoryTypes.Add(4, "Culture and leisure");
+            categoryTypes.Add(5, "Games");
+            categoryTypes.Add(6, "Others");
         }
 
 

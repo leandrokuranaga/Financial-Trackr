@@ -12,7 +12,7 @@ namespace Financial_Trackr
             do
             {
                 Console.WriteLine("Welcome to the Financial Trackr, please, choose what you'd like to do!");
-                Console.WriteLine("[1] - CONSULT SPENDS\n[2] - CONSULT SAVINGS\n[3] - CONSULT BALANCE\n[4] - EXIT");
+                Console.WriteLine("[1] - CONSULT SPENDS\n[2] - CONSULT SAVINGS\n[3] - CONSULT BALANCE\n[4] - ADD OUTGOINGS\n[5] - EXIT");
                 operation = int.Parse(Console.ReadLine());
                 Console.WriteLine("\n");
 
@@ -36,12 +36,17 @@ namespace Financial_Trackr
                         result = operations.ConsultBalance();
                         Console.WriteLine("Your current balance is ${0}\n", result);
                         break;
+
+                    case 4:
+                        Console.Clear();
+                        operations.AddSpending();
+                        break;
                 }
 
-                if (operation == 4)
+                if (operation == 5)
                     Console.WriteLine("Glad to help! See you soon!");
 
-            } while (operation != 4);
+            } while (operation != 5);
 
         }
     }
