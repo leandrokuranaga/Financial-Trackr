@@ -1,0 +1,16 @@
+C:\Users\Leandro\source\repos\Financial-Trackr\Financial-Trackr\bin\Debug\net5.0\Financial-Trackr.exe
+C:\Users\Leandro\source\repos\Financial-Trackr\Financial-Trackr\bin\Debug\net5.0\Financial-Trackr.deps.json
+C:\Users\Leandro\source\repos\Financial-Trackr\Financial-Trackr\bin\Debug\net5.0\Financial-Trackr.runtimeconfig.json
+C:\Users\Leandro\source\repos\Financial-Trackr\Financial-Trackr\bin\Debug\net5.0\Financial-Trackr.runtimeconfig.dev.json
+C:\Users\Leandro\source\repos\Financial-Trackr\Financial-Trackr\bin\Debug\net5.0\Financial-Trackr.dll
+C:\Users\Leandro\source\repos\Financial-Trackr\Financial-Trackr\bin\Debug\net5.0\ref\Financial-Trackr.dll
+C:\Users\Leandro\source\repos\Financial-Trackr\Financial-Trackr\bin\Debug\net5.0\Financial-Trackr.pdb
+C:\Users\Leandro\source\repos\Financial-Trackr\Financial-Trackr\obj\Debug\net5.0\Financial-Trackr.csproj.AssemblyReference.cache
+C:\Users\Leandro\source\repos\Financial-Trackr\Financial-Trackr\obj\Debug\net5.0\Financial-Trackr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\source\repos\Financial-Trackr\Financial-Trackr\obj\Debug\net5.0\Financial-Trackr.AssemblyInfoInputs.cache
+C:\Users\Leandro\source\repos\Financial-Trackr\Financial-Trackr\obj\Debug\net5.0\Financial-Trackr.AssemblyInfo.cs
+C:\Users\Leandro\source\repos\Financial-Trackr\Financial-Trackr\obj\Debug\net5.0\Financial-Trackr.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\source\repos\Financial-Trackr\Financial-Trackr\obj\Debug\net5.0\Financial-Trackr.dll
+C:\Users\Leandro\source\repos\Financial-Trackr\Financial-Trackr\obj\Debug\net5.0\ref\Financial-Trackr.dll
+C:\Users\Leandro\source\repos\Financial-Trackr\Financial-Trackr\obj\Debug\net5.0\Financial-Trackr.pdb
+C:\Users\Leandro\source\repos\Financial-Trackr\Financial-Trackr\obj\Debug\net5.0\Financial-Trackr.genruntimeconfig.cache
